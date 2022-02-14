@@ -1,0 +1,63 @@
+.carousel-inner img {
+    height: 600px;
+  }
+  /* header button */
+  
+  .btn{
+      position: absolute;
+      right: 90px;
+      
+  }
+  /* navbar */
+
+  .navbar-nav{
+      font-weight: bolder;
+      position: relative;
+      left: 400px;
+      letter-spacing: normal;
+      
+  }
+  .nav-item a{
+      font-weight: bolder;
+  }
+  /* cards */
+  .card{
+      float: left;
+      margin-left: 100px;
+  }
+/* footer */
+  .footer{
+      background-color: black;
+      height: 200px;
+      margin-top: 300px;
+  }
+
+  .first{
+      float: left;
+      margin-left:200px;
+  }
+  .first li{
+      color: white;
+      list-style: none;
+  }
+
+.first h3 {
+color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
